@@ -1,0 +1,5 @@
+C:\Users\karol\Desktop\prace\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.AssemblyReference.cache
+C:\Users\karol\Desktop\prace\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karol\Desktop\prace\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.LoginForm.resources
+C:\Users\karol\Desktop\prace\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.MainForm.resources
+C:\Users\karol\Desktop\prace\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.GenerateResource.cache
